@@ -2,7 +2,7 @@ import React from "react";
 
 const CardContent = () => {
   return(
-    <div className="pt-[39px] pl-[34px] pb-[23px] md:pt-[70px] md:pl-[88px] md:pb-[57px]">
+    <div className="pt-[39px] pl-[34px] pb-[0px] md:pt-[70px] md:pl-[88px] md:pb-[33px]">
       <h1 className="mr-[34px] md:mr-[112px] font-inter font-bold text-[28px] md:text-[36px] text-white text-center md:text-left leading-[31.79px] md:leading-[44px]">
         Get <span className="text-[#AA5CDB]">insights</span> that help your business grow.
       </h1>
