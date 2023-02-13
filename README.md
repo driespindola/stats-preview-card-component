@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/driespindola/product-preview-card)
-- Live Site URL: [Vercel](https://product-preview-card-ochre.vercel.app/)
+- Solution URL: [Github](https://github.com/driespindola/stats-preview-card-component)
+- Live Site URL: [Vercel](https://stats-preview-card-component-two-vert.vercel.app/)
 
 ## My process
 
@@ -39,7 +39,6 @@ Users should be able to:
 
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Typescript](https://www.typescriptlang.org/) - JS Library
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
 
